@@ -1,0 +1,17 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#1e293b"/></linearGradient>
+  </defs>
+  <rect width="900" height="620" rx="40" fill="url(#bg)"/>
+  <rect x="70" y="360" width="760" height="90" rx="18" fill="#475569"/>
+  <rect x="100" y="250" width="150" height="110" rx="16" fill="#e2e8f0"/>
+  <rect x="290" y="230" width="150" height="130" rx="16" fill="#f97316"/>
+  <rect x="480" y="180" width="160" height="180" rx="16" fill="#0ea5e9"/>
+  <rect x="680" y="260" width="110" height="100" rx="16" fill="#e2e8f0"/>
+  <circle cx="145" cy="305" r="28" fill="#0f172a"/>
+  <circle cx="365" cy="295" r="38" fill="#0f172a"/>
+  <path d="M540 245h45m-45 35h70m-70 35h95" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M120 450v85m220-85v85m220-85v85m220-85v85" stroke="#94a3b8" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="120" text-anchor="middle" font-family="Arial" font-size="48" font-weight="800" fill="white">PowerTech Repair Lab</text>
+  <text x="450" y="160" text-anchor="middle" font-family="Arial" font-size="24" fill="#cbd5e1">Replace this placeholder with your real lab image</text>
+</svg>

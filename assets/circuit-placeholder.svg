@@ -1,0 +1,27 @@
+<svg width="900" height="650" viewBox="0 0 900 650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff7ed"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient>
+    <linearGradient id="chip" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#334155"/></linearGradient>
+  </defs>
+  <rect width="900" height="650" rx="46" fill="url(#bg)"/>
+  <g opacity=".15" stroke="#0f172a" stroke-width="6" fill="none">
+    <path d="M110 120h210v90h180v120h290"/>
+    <path d="M140 520h220V410h160V250h240"/>
+    <path d="M120 330h190"/>
+    <path d="M610 110v140"/>
+    <path d="M710 430v120"/>
+  </g>
+  <rect x="325" y="210" width="250" height="210" rx="26" fill="url(#chip)"/>
+  <g fill="#f97316">
+    <rect x="285" y="240" width="45" height="14" rx="7"/>
+    <rect x="285" y="285" width="45" height="14" rx="7"/>
+    <rect x="285" y="330" width="45" height="14" rx="7"/>
+    <rect x="285" y="375" width="45" height="14" rx="7"/>
+    <rect x="570" y="240" width="45" height="14" rx="7"/>
+    <rect x="570" y="285" width="45" height="14" rx="7"/>
+    <rect x="570" y="330" width="45" height="14" rx="7"/>
+    <rect x="570" y="375" width="45" height="14" rx="7"/>
+  </g>
+  <text x="450" y="327" text-anchor="middle" font-family="Arial" font-size="44" font-weight="800" fill="white">PCB</text>
+  <text x="450" y="368" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#cbd5e1">REPAIR</text>
+</svg>
